@@ -1,0 +1,3 @@
+a4tywkxlqrmz3-ats.iot.us-east-2.amazonaws.com
+
+arduino/outgoing
